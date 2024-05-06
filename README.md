@@ -1,5 +1,5 @@
 # Data Analyst 
-# Technical skills: Python, SQL, Tableau, R
+Technical skills: Python, SQL, Tableau, R
 # About Me:
 I'm Xinyu, a dedicated individual aspiring to become a Data Analyst. With a keen eye for detail and a passion for uncovering insights from data, I am committed to leveraging my skills to drive data-driven decision-making.
 
