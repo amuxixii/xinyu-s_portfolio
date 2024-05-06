@@ -1,2 +1,5 @@
-title: xinyu chen
-theme : jekyll-theme-minimal
+
+title : xinyu chen
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme 
