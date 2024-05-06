@@ -1,1 +1,2 @@
-# xinyu's portfolio
+title: xinyu chen
+theme : jekyll-theme-minimal
